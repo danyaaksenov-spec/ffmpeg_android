@@ -1,0 +1,13 @@
+name: ffmpeg_android
+description: Android-only wrapper for ffmpeg_kit_flutter_new
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.7.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ffmpeg_kit_flutter_new: ^1.6.1
